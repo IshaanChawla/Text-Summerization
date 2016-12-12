@@ -1,0 +1,431 @@
+जख्मी	जख्मी	JJ		adj	f	any		any
+एएसआई	एएसआई	NN		unk				
+ने	ने	PSP		psp				
+16	16	QC		num				
+पर	पर	PSP		psp				
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+कराई	करा	VM	या	v	f	sg	any	
+प्राथमिकी	प्राथमिकी	JJ		unk				
+सहरसा	सहरसा	NN		unk				
+।	।	SYM		punc				
+</s>
+<s>
+पटुआहा	पटुआहा	NN		unk				
+पंचायत	पंचायत	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विधि	विधि	NN	0	n	f	sg	3	d
+व्यवस्था	व्यवस्था	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+तैनात	तैनात	JJ		adj	any	any		any
+सदर	सदर	NN		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सअनि	सअनि	XC		unk				
+विजय	विजय	XC	0	n	m	sg	3	d
+ठाकुर	ठाकुर	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+ड्यूटी	ड्यूटी	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+हमला	हमला	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+जख्मी	जख्मी	NN		adj	f	any		any
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+प्राथमिकी	प्राथमिकी	JJ		unk				
+सदर	सदर	NN		unk				
+थाना	थाना	VM	0	n	m	sg	3	d
+में	में	PSP		psp				
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+करायी	करा	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+श्री	श्री	XC	0	n	f	sg	3	d
+ठाकुर	ठाकुर	NNP	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+मंगलवार	मंगलवार	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+हमला	हमला	NN	0	n	m	sg	3	d
+तब	तब	PRP		adv				
+हुआ	हो	VM	या	v	m	sg	any	
+जब	जब	PRP		adv				
+वो	वो	PRP		unk				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तीन	तीन	QC	0	n	m	sg	3	d
+बच्ची	बच्ची	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+टोला	टोला	XC	0	n	m	sg	3	d
+पार	पार	NN		psp				
+करा	करा	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+।	।	SYM		punc				
+</s>
+<s>
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+प्राथमिकी	प्राथमिकी	NN		unk				
+में	में	PSP		psp				
+श्री	श्री	XC	0	n	f	sg	3	d
+ठाकुर	ठाकुर	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+वे	वह	PRP	0	pn	any	pl	3	d
+भेडधरी	भेडधरी	JJ		unk				
+मध्य	मध्य	JJ		adv				
+विद्यालय	विद्यालय	NN	0	n	m	sg	3	d
+पटुआहा	पटुआहा	NN		unk				
+में	में	PSP		psp				
+ड्यूटी	ड्यूटी	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+तैनात	तैनात	JJ		adj	any	any		any
+थे	था	VM	था	v	m	pl	any	
+।	।	SYM		punc				
+</s>
+<s>
+गांव	गाँव	NN	0	n	m	sg		d
+में	में	PSP		psp				
+दो	दो	QC	0	n	m	sg	3	d
+पक्षों	पक्ष	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+हुई	हो	VM	या	v	f	sg	any	
+झडप	झडप	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विद्यार्थी	विद्यार्थी	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भागने	भाग	VM	ना	v	m	pl	any	
+लगे	लग	VAUX	एं	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+स्कूल	स्कूल	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+तीन	तीन	QC	0	n	m	sg	3	d
+बच्चियां	बच्चियां	NN		unk				
+उनके	उनके	PRP		unk				
+पास	पास	NST		adv				
+आयीं	आ	VM	या	v	f	pl	any	
+और	और	CC		adv				
+बोली	बोल	VM	या	v	f	sg	any	
+अंकल	अंकल	NN		unk				
+हमें	हमें	PRP		unk				
+टोला	टोला	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+पार	पार	NN		psp				
+करा	करा	VM	0	v	any	any	any	
+दीजिए	दे	VAUX	एं	v	any	sg	2h	
+नहीं	नहीं	NEG		adv				
+तो	तो	CC		avy				
+सब	सब	QF		adj	any	any		any
+मुझे	मुझे	PRP		unk				
+मारेंगे	मार	VM	गा	v	m	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+जिसके	जो	PRP	का	pn	m	pl	3	d
+बाद	बाद	NST		adv				
+तीनों	तीन	QC	0	n	m	pl	3	o
+बच्चियों	बच्ची	NN	0	n	f	pl	3	o
+को	को	PSP		psp				
+अन्य	अन्य	JJ		adj	any	any		any
+सशस्त्र	सशस्त्र	JJ		adj	any	any		any
+बल	बल	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+टोला	टोला	XC	0	n	m	sg	3	d
+पार	पार	NN		psp				
+करा	करा	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+थे	था	VAUX	था	v	m	pl	any	
+।	।	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+पराजित	पराजित	JJ		adj	any	any		any
+मुखिया	मुखिया	NN	0	n	m	sg	3	d
+प्रत्याशी	प्रत्याशी	JJ		unk				
+संजना	संजना	NN		unk				
+तांती	तांती	NN		unk				
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+वालों	वाला	PSP	0	n	m	pl	3	o
+को	को	PSP		psp				
+जान	जान	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मार	मार	VM	0	v	any	any	any	
+दो	दे	VAUX	एं	v	any	pl	2	
+।	।	SYM		punc				
+</s>
+<s>
+कहने	कह	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+संजना	संजना	XC		unk				
+तांती	तांती	NNP		unk				
+,	,	SYM		punc				
+परमेश्वरी	परमेश्वरी	JJ	0	n	f	sg	3	d
+शर्मा	शर्मा	NN		unk				
+,	,	SYM		punc				
+विद्यानंद	विद्यानंद	XC		unk				
+शर्मा	शर्मा	NNP		unk				
+,	,	SYM		punc				
+दिनेश	दिनेश	XC	0	n	m	sg	3	d
+शर्मा	शर्मा	NNP		unk				
+,	,	SYM		punc				
+उपेन्द्र	उपेंद्र	XC	0	n	m	sg		d
+शर्मा	शर्मा	NNP		unk				
+,	,	SYM		punc				
+सुजीत	सुजीत	XC		unk				
+शर्मा	शर्मा	NNP		unk				
+,	,	SYM		punc				
+शीला	शीला	XC		unk				
+देवी	देवी	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+राजेन्द्र	राजेंद्र	XC	0	n	m	sg		d
+शर्मा	शर्मा	NNP		unk				
+,	,	SYM		punc				
+विद्यानंद	विद्यानंद	XC		unk				
+शर्मा	शर्मा	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+पत्नी	पत्नी	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+दिनेश	दिनेश	XC	0	n	m	sg	3	d
+शर्मा	शर्मा	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+पत्नी	पत्नी	NN	0	n	f	sg	3	d
+,	,	SYM		punc				
+बहन	बहन	NN	0	n	f	sg	3	d
+व	व	CC		avy				
+बहनोई	बहनोई	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+गंगेश	गंगेश	XC		unk				
+शर्मा	शर्मा	NNP		unk				
+,	,	SYM		punc				
+साजन	साजन	XC	0	n	m	sg	3	d
+शर्मा	शर्मा	NNP		unk				
+,	,	SYM		punc				
+रेणु	रेणु	XC	0	n	f	sg	3	d
+देवी	देवी	XC	0	n	f	sg	3	d
+,	,	SYM		punc				
+सोनी	सो	JJ	ना	v	f	sg	any	
+देवी	देवी	NN	0	n	f	sg	3	d
+समेत	समेत	PSP		psp				
+10	10	QC		num				
+-	-	SYM		punc				
+15	15	QC		num				
+अज्ञात	अज्ञात	JJ		adj	any	any		any
+घेरकर	घेर	VM	कर	v	any	any	any	
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+शुरू	शुरू	NN		avy				
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+हाथों	हाथ	NN	0	n	m	pl	3	o
+में	में	PSP		psp				
+लाठी-डंडा	लाठी-डंडा	NN		unk				
+,	,	SYM		punc				
+रड	रड	NN		unk				
+आदि	आदि	RP	0	n	m	sg	3	d
+लेकर	ले	VM	कर	v	any	any	any	
+सभी	सभी	QF	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+मारपीट	मारपीट	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+जिसमें	जो	PRP	में	pn	any	sg	3	o
+जख्मी	जख्मी	VM		adj	f	any		any
+हो	हो	VAUX	0	v	any	any	any	
+गये	गये	VAUX		unk				
+।	।	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+हमें	हमें	PRP		unk				
+संजना	संजना	XC		unk				
+तांती	तांती	NNP		unk				
+व	व	CC		avy				
+साजन	साजन	XC	0	n	m	sg	3	d
+शर्मा	शर्मा	NNP		unk				
+ने	ने	PSP		psp				
+अपने	अपना	PRP	0	n	m	pl	3	d
+वरीय	वरीय	JJ		unk				
+पदाधिकारी	पदाधिकारी	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+फोन	फोन	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+बताने	बता	VM	ना	v	m	pl	any	
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+जबतक	जबतक	NN		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+कैंप	कैंप	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+हटेगा	हट	VM	गा	v	m	sg	2	
+तबतक	तबतक	JJ		unk				
+हमलोगा	हमलोगा	NN		unk				
+पुलिस	पुलिस	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+मारते	मार	VM	ता	v	m	pl	any	
+रहेंगे	रह	VAUX	गा	v	m	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+मामले	मामला	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+थानाध्यक्ष	थानाध्यक्ष	JJ		unk				
+भाई	भाई	XC	0	n	m	sg	3	d
+भरत	भरत	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+बताया	बता	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+प्राथमिकी	प्राथमिकी	JJ		unk				
+दर्ज	दर्ज	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+आरोपियों	आरोपियों	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+गिरफ्तारी	गिरफ्तारी	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+कार्रवाई	कार्रवाई	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+जा	जा	VAUX	0	v	any	any	any	
+रही	रह	VAUX	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+-----सडक	-----सडक	NN		unk				
+जाम	जाम	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+प्राथमिकी	प्राथमिकी	JJ		unk				
+दर्ज-----जासं	दर्ज-----जासं	NN		unk				
+,	,	SYM		punc				
+सहरसा	सहरसा	XC		unk				
+:	:	SYM		punc				
+बिना	बिन	NEG	या	v	m	sg	any	
+वरीय	वरीय	JJ		unk				
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अनुमति	अनुमति	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सडक	सडक	JJ	0	n	f	sg	3	d
+जाम	जाम	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+कहरा	कहरा	VM		unk				
+के	का	PSP	का	psp	m	sg		o
+सीओ	सीओ	XC		unk				
+शैलेन्द्र	शैलेन्द्र	XC	0	n	m	sg	3	d
+कुमार	कुमार	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+संजना	संजना	XC		unk				
+तांती	तांती	NNP		unk				
+व	व	CC		avy				
+उनके	उनके	PRP		unk				
+समर्थक	समर्थक	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+प्राथमिकी	प्राथमिकी	JJ		unk				
+दर्ज	दर्ज	NN	0	n	m	sg	3	d
+करायी	करा	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+प्राथमिकी	प्राथमिकी	NN		unk				
+में	में	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+संजना	संजना	NN		unk				
+तांती	तांती	NN		unk				
+द्वारा	द्वारा	PSP		psp				
+सडक	सडक	JJ	0	n	f	sg	3	d
+जाम	जाम	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+किसी	किसी	PRP		unk				
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+अनुमति	अनुमति	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+ली	ले	VM	या	v	f	sg	any	
+गयी	गयी	VAUX		unk				
+।	।	SYM		punc				
+</s>
+<s>
+एसडीओ	एसडीओ	NN		unk				
+द्वारा	द्वारा	PSP		psp				
+प्रतिनियुक्त	प्रतिनियुक्त	JJ		adj	any	any		any
+दंडाधिकारी	दंडाधिकारी	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+जब	जब	PRP		adv				
+हम	हम	PRP		unk				
+वहां	वहाँ	PRP		adv				
+पहुंचे	पहुंचे	VM		unk				
+तो	तो	CC		avy				
+संजना	संजना	NN		unk				
+तांती	तांती	NN		unk				
+व	व	CC		avy				
+उनके	उनके	PRP		unk				
+समर्थकों	समर्थक	NN	0	n	m	pl	3	o
+द्वारा	द्वारा	PSP		psp				
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+मांगों	मांगों	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+समर्थन	समर्थन	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+एनएच	एनएच	XC		unk				
+107	107	QC		num				
+को	को	PSP		psp				
+जाम	जाम	NN	0	n	m	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+था	था	VAUX	था	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+जिससे	जो	PRP	से	pn	any	sg	3	o
+तीन	तीन	QC	0	n	m	sg	3	d
+घंटे	घंटा	NN	0	n	m	pl	3	d
+तक	तक	RP		avy				
+यातायात	यातायात	NN	0	n	m	sg	3	d
+पूर्ण	पूर्ण	JJ		psp				
+रूपेण	रूपेण	NN		unk				
+ठप	ठप	VM		adj	any	any		any
+रहा	रह	VAUX	या	v	m	sg	any	
+और	और	CC		adv				
+लोगों	लोग	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+काफी	काफी	QF	0	n	f	sg	3	d
+परेशानी	परेशानी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सामना	सामना	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+पडा	पड	VAUX	या	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
