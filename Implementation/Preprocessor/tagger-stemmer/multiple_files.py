@@ -5,7 +5,7 @@ if __name__ == '__main__':
     # Destination to save all the Preprocessed Files
     destinationFolder = '../../Preprocessed_Corpus/'
     # List of all Folders that contain files to be preprocessed
-    sourceFolders = ['../../Dummy_Corpus/']
+    sourceFolders = ['../../Corpus/Dummy_Corpus/']
     # Fetching all files from all the folders
     for folder in sourceFolders:
         files = os.listdir(folder)
@@ -20,6 +20,6 @@ if __name__ == '__main__':
             # Creating a new file
             os.system('touch ' + destinationFolder + file)
             # Writing the output to the destination
-            os.system('cat hindi.output > ' + destinationFolder + '/' + file)
+            os.system('cat hindi.output > ' + destinationFolder + '/' + folder.split('/')[-2] + '/' + file)
             # To close the terminal on which commands are running
             os.system('exit')

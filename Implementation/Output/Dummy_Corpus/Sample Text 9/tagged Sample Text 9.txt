@@ -1,0 +1,1128 @@
+गलत	गलत	JJ		adj	any	any		any
+राह	राह	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+पाकिस्तान	पाकिस्तान	XC	0	n	m	sg	3	d
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विदेश	विदेश	XC	0	n	m	sg	3	d
+मामलों	मामला	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+सलाहकार	सलाहकार	NN	0	n	m	sg	3	d
+सरताज	सरताज	NN	0	n	m	sg	3	d
+अजीज	अजीज	NN		adj	any	any		any
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+जब	जब	PRP		adv				
+तक	तक	RP		avy				
+नरेंद्र	नरेंद्र	JJ	0	n	m	sg	3	d
+मोदी	मोदी	XC		unk				
+भारत	भारत	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रधानमंत्री	प्रधानमंत्री	NN	0	n	m	sg	3	d
+रहेंगे	रह	VM	गा	v	m	pl	1	
+तब	तब	PRP		adv				
+तक	तक	RP		avy				
+भारत	भारत	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रिश्ते	रिश्ता	NN	0	n	m	pl	3	d
+सुधर	सुधर	VM	0	v	any	any	any	
+नहीं	नहीं	NEG		adv				
+सकते	सक	VAUX	ता	v	m	pl	any	
+।	।	SYM		punc				
+</s>
+<s>
+इससे	इससे	PRP		pn	any	sg	3	o
+अधिक	अधिक	QF		adv				
+अलोकतांत्रिक	अलोकतांत्रिक	JJ		unk				
+और	और	CC		adv				
+जनविरोधी	जनविरोधी	JJ		unk				
+बयान	बयान	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+नहीं	नहीं	NEG		adv				
+सकता	सक	VAUX	ता	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+बयान	बयान	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+भी	भी	RP		adv				
+निराशाजनक	निराशाजनक	JJ		unk				
+और	और	CC		adv				
+निंदनीय	निंदनीय	JJ		adj	any	any		any
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+क्योंकि	क्योंकि	CC		adv				
+यह	यह	PRP	0	pn	any	sg	3	d
+एक	एक	QC		adj	any	any		any
+शीर्षस्थ	शीर्षस्थ	JJ		unk				
+पाकिस्तानी	पाकिस्तानी	JJ		adj	f	any		any
+अधिकारी	अधिकारी	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	PSP		adv				
+से	से	PSP	0	v	any	any	any	
+आया	आ	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+मोदी	मोदी	NN		unk				
+नियम	नियम	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+चुने	चुन	VM	एं	v	any	sg	2	
+हुए	हो	VAUX	या	v	m	pl	any	
+प्रधानमंत्री	प्रधानमंत्री	NN	0	n	m	sg	3	d
+हैं	है	VM	है	v	any	pl	1	
+और	और	CC		adv				
+उनकी	उनकी	PRP		unk				
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+जनता	जनता	NN	0	n	f	sg	3	d
+पार्टी	पार्टी	NN	0	n	f	sg	3	d
+पारदर्शी	पारदर्शी	NN		adj	f	any		any
+और	और	CC		adv				
+निष्पक्ष	निष्पक्ष	JJ		adj	any	any		any
+चुनाव	चुनाव	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जरिये	जरिये	PSP:?		psp				
+सत्ता	सत्ता	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+आई	आ	VM	या	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+विरोध	विरोध	NN	0	n	m	sg	3	d
+लोकतंत्र	लोकतंत्र	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+हिस्सा	हिस्सा	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+इसका	इसका	PRP		pn	m	sg	3	d
+मतलब	मतलब	NN	0	n	m	sg	3	d
+यह	यह	PRP	0	pn	any	sg	3	d
+नहीं	नहीं	NEG		adv				
+कि	कि	CC		avy				
+एक	एक	QC		adj	any	any		any
+विरोधी	विरोधी	JJ	0	n	m	sg	3	d
+को	को	PSP		psp				
+नंबर	नंबर	NN	0	n	m	sg	3	d
+एक	एक	QC		adj	any	any		any
+का	का	PSP	का	psp	m	sg		d
+स्थान	स्थान	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+ए।	ए।	NN		unk				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+मोदी	मोदी	NN		unk				
+और	और	CC		adv				
+उनकी	उनकी	PRP		unk				
+पार्टी	पार्टी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+विचारधारा	विचारधारा	NN	0	n	f	sg	3	d
+पसंद	पसंद	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+करता	कर	VM	ता	v	m	sg	any	
+हूं	है	VAUX	है	v	any	sg	1	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+भारत	भारत	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रधानमंत्री	प्रधानमंत्री	NN	0	n	m	sg	3	d
+हैं	है	VM	है	v	any	pl	1	
+और	और	CC		adv				
+भारत	भारत	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+एक	एक	QC		adj	any	any		any
+नागरिक	नागरिक	NN	0	n	m	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+पद	पद	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+उनकी	उनकी	PRP		unk				
+उपस्थिति	उपस्थिति	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+स्वीकार	स्वीकार	NN	0	n	m	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+हूं	है	VAUX	है	v	any	sg	1	
+।	।	SYM		punc				
+</s>
+<s>
+सरताज	सरताज	NN	0	n	m	sg	3	d
+अजीज	अजीज	NN		adj	any	any		any
+केवल	केवल	RP		adv				
+तथ्यों	तथ्य	NN	0	n	m	pl	3	o
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+आंखें	आंखें	NN		unk				
+मूंदे	मूंदे	VM		unk				
+रहना	रह	VM	ना	v	m	sg	any	
+चाहते	चाह	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+वास्तविकता	वास्तविकता	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सामने	सामना	NST	0	n	m	pl	3	d
+कि	कि	CC		avy				
+भाजपा	भाजपा	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+मोदी	मोदी	NN		unk				
+चुनाव	चुनाव	NN	0	n	m	sg	3	d
+जीत	जीत	VM	0	v	any	any	any	
+कर	कर	VAUX	0	v	any	any	any	
+आए	आ	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+सरताज	सरताज	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विचारों	विचार	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+महत्व	महत्व	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+नेशनल	नेशनल	XC		unk				
+असेंबली	असेंबली	NNP	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+जब	जब	PRP		adv				
+कश्मीर	कश्मीर	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+कथित	कथित	JJ		adj	any	any		any
+अत्याचार	अत्याचार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+एक	एक	QC		adj	any	any		any
+सर्वसम्मत	सर्वसम्मत	JJ		adj	any	any		any
+प्रस्ताव	प्रस्ताव	NN	0	n	m	sg	3	d
+पारित	पारित	JJ		adj	any	any		any
+किया	कर	VM	या	v	m	sg	any	
+तो	तो	CC		avy				
+रहस्य	रहस्य	NN	0	n	m	sg	3	d
+खुल	खुल	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+।	।	SYM		punc				
+</s>
+<s>
+प्रधानमंत्री	प्रधानमंत्री	NN	0	n	m	sg	3	d
+नवाज	नवाज	JJ	0	v	any	any	any	
+शरीफ	शरीफ	NN	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+मामले	मामला	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+संयुक्त	संयुक्त	JJ		adj	any	any		any
+राष्ट्र	राष्ट्र	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+उठाने	उठा	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+कोशिश	कोशिश	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+तो	तो	CC		avy				
+उन्हें	उन्हें	PRP		unk				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+समर्थन	समर्थन	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+मिला	मिला	VM	0	v	any	any	any	
+।	।	SYM		punc				
+</s>
+<s>
+सत्तर	सत्तर	JJ	0	n	m	sg	3	d
+साल	साल	NN	0	n	m	sg	3	d
+गुजर	गुजर	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+और	और	CC		adv				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+देशों	देश	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+रिश्ते	रिश्ता	NN	0	n	m	pl	3	d
+सामान्य	सामान्य	JJ		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+पाए	पा	VAUX	एं	v	any	sg	2	
+,	,	SYM		punc				
+क्योंकि	क्योंकि	CC		adv				
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+जोर	जोर	NN	0	n	m	sg	3	d
+मामले	मामला	NN	0	n	m	pl	3	d
+को	को	PSP		psp				
+दुनिया	दुनिया	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+मंचों	मंच	NN	0	n	m	pl	3	o
+पर	पर	PSP		psp				
+उठाने	उठा	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+रहा	रह	VM	या	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+जुल्फिकार	जुल्फिकार	NN		unk				
+अली	अली	JJ	0	n	f	sg	3	d
+भुट्टो	भुट्टो	NN		unk				
+और	और	CC		adv				
+इंदिरा	इंदिरा	XC	0	n	m	sg	3	d
+गांधी	गांधी	NNP	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+शिमला	शिमला	NNP		unk				
+में	में	PSP		psp				
+इस	इस	DEM		pn	any	sg	3	o
+बात	बात	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+समझौता	समझौता	VM	0	n	m	sg	3	d
+हुआ	हो	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+कि	कि	CC		avy				
+कश्मीर	कश्मीर	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+समस्या	समस्या	NN	0	n	f	sg	3	d
+दोनों	दोना	JJ	0	n	m	pl	3	o
+पक्षों	पक्ष	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+की	का	PSP	का	psp	f	sg		d
+समस्या	समस्या	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+और	और	CC		adv				
+इसे	इसे	PRP		pn	any	sg	3	o
+इन्हीं	इन्हीं	DEM		unk				
+दोनों	दोना	NN	0	n	m	pl	3	o
+को	को	PSP		psp				
+,	,	SYM		punc				
+बिना	बिन	NEG	या	v	m	sg	any	
+किसी	किसी	PRP		unk				
+तीसरे	तीसरा	QO	0	n	m	pl	3	d
+पक्ष	पक्ष	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+हस्तक्षेप	हस्तक्षेप	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+सुलझाना	सुलझा	VM	ना	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+कश्मीर	कश्मीर	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+समस्या	समस्या	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+समाधान	समाधान	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+सका	सक	VAUX	या	v	m	sg	any	
+,	,	SYM		punc				
+इसी	इसी	PRP		pn	any	sg	3	o
+को	को	PSP		psp				
+ध्यान	ध्यान	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+रखकर	रख	VM	कर	v	any	any	any	
+लंदन	लंदन	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+एक	एक	QC		adj	any	any		any
+यात्रा	यात्रा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+मैं	मैं	PRP	0	pn	any	sg	1	d
+रेडक्लिफ	रेडक्लिफ	NNP		unk				
+से	से	PSP	0	v	any	any	any	
+मिला	मिला	VM	0	v	any	any	any	
+।	।	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+मिलने	मिल	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+झट	झट	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+तैयार	तैयार	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+इस	इस	DEM		pn	any	sg	3	o
+शर्त	शर्त	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+कि	कि	CC		avy				
+भारत	भारत	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बंटवारे	बंटवारे	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+उन्होंने	उन्होंने	PRP		unk				
+जो	जो	PRP		avy				
+रेखा	रेखा	NN	0	n	f	sg	3	d
+खींची	खींच	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+,	,	SYM		punc				
+उस	उस	PRP		unk				
+पर	पर	PSP		psp				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+उनसे	उनसे	PRP		unk				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+बात	बात	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+करूंगा	करूंगा	VM		unk				
+।	।	SYM		punc				
+</s>
+<s>
+मैंने	मैं	PRP	ने	pn	any	sg	1	o
+उन्हें	उन्हें	PRP		unk				
+आश्वासन	आश्वासन	NN	0	n	m	sg	3	d
+दिया	दे	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+इस	इस	DEM		pn	any	sg	3	o
+सवाल	सवाल	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+जिंदा	जिंदा	NN		adj	m	sg		d
+नहीं	नहीं	NEG		adv				
+करना	कर	VM	ना	v	m	sg	any	
+चाहता	चाह	VAUX	ता	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+मेरा	मेरा	PRP		unk				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+छिपा	छिपा	VM	0	v	any	any	any	
+उद्देश्य	उद्देश्य	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+उनकी	उनकी	PRP		unk				
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+बनाई	बना	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+सीमा	सीमा	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+पीछे	पीछा	NST	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+तर्क	तर्क	NN	0	n	m	sg	3	d
+समझना	समझ	VM	ना	v	m	sg	any	
+चाहता	चाह	VAUX	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+रेडक्लिफ	रेडक्लिफ	XC		unk				
+लंदन	लंदन	NN		unk				
+में	में	PSP		psp				
+ऑक्सफोर्ड	ऑक्सफोर्ड	XC		unk				
+स्ट्रीट	स्ट्रीट	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+एक	एक	QC		adj	any	any		any
+फ्लैट	फ्लैट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+रहते	रह	VM	ता	v	m	pl	any	
+थे	था	VAUX	था	v	m	pl	any	
+।	।	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+उन्होंने	उन्होंने	PRP		unk				
+दरवाजा	दरवाजा	NN	0	n	m	sg	3	d
+खोला	खोल	VM	या	v	m	sg	any	
+तो	तो	CC		avy				
+मुझे	मुझे	PRP		unk				
+लगा	लगा	VM	0	v	any	any	any	
+कि	कि	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+रेडक्लिफ	रेडक्लिफ	NN		unk				
+नहीं	नहीं	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+सकते	सक	VAUX	ता	v	m	pl	any	
+।	।	SYM		punc				
+</s>
+<s>
+मैंने	मैं	PRP	ने	pn	any	sg	1	o
+कल्पना	कल्पना	NN	0	n	f	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+कि	कि	CC		avy				
+लार्ड	लार्ड	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+मिलने	मिल	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+काफी	काफी	QF	0	n	f	sg	3	d
+झमेला	झमेला	NN	0	n	m	sg	3	d
+होगा	हो	VM	गा	v	m	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+विपरीत	विपरीत	JJ		psp				
+जब	जब	PRP		adv				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+उनके	उनके	PRP		unk				
+फ्लैट	फ्लैट	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+गया	गया	VM		unk				
+तो	तो	CC		avy				
+उन्होंने	उन्होंने	PRP		unk				
+चाय	चाय	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+पूछा	पूछ	VM	या	v	m	sg	any	
+और	और	CC		adv				
+मेरे	मेरे	PRP		unk				
+हां	हाँ	INJ		avy				
+कहने	कह	VM	ना	v	m	pl	any	
+पर	पर	PSP		psp				
+उन्होंने	उन्होंने	PRP		unk				
+खुद	खुद	PRP	0	v	any	any	any	
+चाय	चाय	NN	0	n	f	sg	3	d
+बना	बना	VM	0	v	any	any	any	
+ई।	ई।	VAUX		unk				
+मुझे	मुझे	PRP		unk				
+पता	पता	JJ	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+कि	कि	CC		avy				
+रेडक्लिफ	रेडक्लिफ	NN		unk				
+ने	ने	PSP		psp				
+40	40	QC		num				
+हजार	हजार	QC	0	n	m	sg	3	d
+रुपये	रुपया	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+वह	वह	PRP	0	pn	any	sg	3	d
+फीस	फीस	NN	0	n	f	sg	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+मना	मना	NEG	0	v	any	any	any	
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+जिसे	जो	PRP	को	pn	any	sg	3	o
+देने	दे	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+पेशकश	पेशकश	NN	0	n	f	sg	3	d
+माउंटबेटन	माउंटबेटन	NN		unk				
+ने	ने	PSP		psp				
+भारत	भारत	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+सीमा	सीमा	NN	0	n	f	sg	3	d
+तय	तय	JJ	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+उनसे	उनसे	PRP		unk				
+संपर्क	संपर्क	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+समय	समय	NN	0	n	m	sg	3	d
+की	कर	VM	या	v	f	sg	any	
+थी	था	VAUX	था	v	f	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+एक	एक	QC		adj	any	any		any
+संवेदनशील	संवेदनशील	JJ		adj	any	any		any
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+होने	हो	VM	ना	v	m	pl	any	
+की	का	PSP	का	psp	f	sg		d
+वजह	वजह	NN	0	n	f	sg	3	d
+से	से	PSP	0	v	any	any	any	
+रेडक्लिफ	रेडक्लिफ	NNP		unk				
+को	को	PSP		psp				
+लगता	लग	VM	ता	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+कि	कि	CC		avy				
+पलायन	पलायन	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+दौरान	दौरान	NST	0	n	m	sg	3	d
+मारे	मार	VM	एं	v	any	sg	2	
+गए	गए	VAUX		unk				
+दस	दस	QC	0	n	m	sg	3	d
+लाख	लाख	QC		adj	any	any		any
+लोगों	लोग	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+खून	खून	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+बोझ	बोझ	NN	0	n	m	sg	3	d
+उनकी	उनकी	PRP		unk				
+अंतरात्मा	अंतरात्मा	NN	0	n	f	sg	3	d
+पर	पर	PSP		psp				
+था	था	VM	था	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+वजह	वजह	NN	0	n	f	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+उन्होंने	उन्होंने	PRP		unk				
+फीस	फीस	NN	0	n	f	sg	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+से	से	PSP	0	v	any	any	any	
+इंकार	इंकार	NN		unk				
+कर	कर	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+रेडक्लिफ	रेडक्लिफ	NNP		unk				
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+कि	कि	CC		avy				
+उन्हें	उन्हें	PRP		unk				
+आश्चर्य	आश्चर्य	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+कश्मीर	कश्मीर	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+दोनों	दोना	JJ	0	n	m	pl	3	o
+देशों	देश	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+युद्ध	युद्ध	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+,	,	SYM		punc				
+जिसे	जो	PRP	को	pn	any	sg	3	o
+उन्होंने	उन्होंने	PRP		unk				
+एक	एक	QC		adj	any	any		any
+महत्वहीन	महत्वहीन	JJ		unk				
+क्षेत्र	क्षेत्र	NN	0	n	m	sg	3	d
+समझा	समझा	VM	0	v	any	any	any	
+था	था	VAUX	था	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+भारत	भारत	NNP	0	n	m	sg	3	d
+को	को	PSP		psp				
+कश्मीर	कश्मीर	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+जोडने	जोड	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+गुरुदासपुर	गुरुदासपुर	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+एक	एक	QC		adj	any	any		any
+तहसील	तहसील	NN	0	n	f	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+का	का	PSP	का	psp	m	sg		d
+दोष	दोष	NN	0	n	m	sg	3	d
+लार्ड	लार्ड	XC	0	n	m	sg	3	d
+माउंटबेटन	माउंटबेटन	NNP		unk				
+पर	पर	PSP		psp				
+लगाया	लगा	VM	या	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+इसके	इसके	PRP		pn	m	pl	3	d
+बगैर	बगैर	PSP:?	0	n	m	sg	3	d
+भारत	भारत	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+कश्मीर	कश्मीर	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+बीच	बीच	NST		psp				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+भौगोलिक	भौगोलिक	JJ		adj	any	any		any
+जुडाव	जुडाव	NN		unk				
+ही	ही	RP		adv				
+नहीं	नहीं	NEG		adv				
+रहता	रह	VM	ता	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+लार्ड	लार्ड	XC	0	n	m	sg	3	d
+माउंटबेटन	माउंटबेटन	NNP		unk				
+की	का	PSP	का	psp	f	sg		d
+हरकतों	हरकत	NN	0	n	f	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+एक	एक	QC		adj	any	any		any
+और	और	CC		adv				
+सबूत	सबूत	NN	0	n	m	sg	3	d
+तब	तब	PRP		adv				
+सामने	सामना	NST	0	n	m	pl	3	d
+आया	आ	VM	या	v	m	sg	any	
+जब	जब	PRP		adv				
+उत्तरी	उत्तरी	JJ		adj	f	any		any
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+एक	एक	QC		adj	any	any		any
+हवाई	हवाई	XC	0	n	f	sg	3	d
+दुर्घटना	दुर्घटना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+मलबे	मलबा	NN	0	n	m	pl	3	d
+में	में	PSP		psp				
+एक	एक	QC		adj	any	any		any
+पत्र	पत्र	NN	0	n	m	sg	3	d
+मिला	मिला	VM	0	v	any	any	any	
+।	।	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+पत्र	पत्र	NN	0	n	m	sg	3	d
+उनका	उनका	PRP		unk				
+व्यक्तिगत	व्यक्तिगत	JJ		adj	any	any		any
+सचिव	सचिव	NN	0	n	m	sg	3	d
+ले	ले	VM	0	v	any	any	any	
+जा	जा	VAUX	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+जो	जो	PRP		avy				
+उस	उस	PRP		unk				
+हवाई	हवाई	XC	0	n	f	sg	3	d
+जहाज	जहाज	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+यात्रा	यात्रा	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+रहा	रह	VAUX	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+घटना	घटना	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+उनके	उनके	PRP		unk				
+बेईमान	बेईमान	JJ		adj	any	any		any
+इरादों	इरादा	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+एक	एक	QC		adj	any	any		any
+सबूत	सबूत	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+रूप	रूप	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+जिक्र	जिक्र	NN	0	n	m	sg	3	d
+किया	कर	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+क्योंकि	क्योंकि	CC		adv				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+देशों	देश	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+गवर्नर	गवर्नर	NN	0	n	m	sg	3	d
+जनरल	जनरल	JJ		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+बनाए	बना	VM	एं	v	any	sg	2	
+जाने	जान	VAUX	एं	v	any	sg	2	
+को	को	PSP		psp				
+लेकर	ले	VM	कर	v	any	any	any	
+उन्हें	उन्हें	PRP		unk				
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+शिकायत	शिकायत	NN	0	n	f	sg	3	d
+थी	था	VM	था	v	f	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+कश्मीर	कश्मीर	NNP	0	n	m	sg	3	d
+में	में	PSP		psp				
+जो	जो	PRP		avy				
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+उसका	उसका	PRP	0	v	any	any	any	
+जिम्मेदार	जिम्मेदार	JJ		adj	any	any		any
+खुद	खुद	PRP	0	v	any	any	any	
+पाकिस्तान	पाकिस्तान	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+अंग्रेजों	अंग्रेज	NN	0	n	m	pl	3	o
+ने	ने	PSP		psp				
+भारत	भारत	NNP	0	n	m	sg	3	d
+छोड	छोड	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+तो	तो	CC		avy				
+महाराजा	महाराजा	XC	0	n	m	sg	3	d
+हरिसिंह	हरिसिंह	NNP		unk				
+ने	ने	PSP		psp				
+जम्मू	जम्मू	NNP	0	n	m	sg	3	d
+तथा	तथा	CC		adv				
+कश्मीर	कश्मीर	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+आजादी	आजादी	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+घोषणा	घोषणा	NN	0	n	f	sg	3	d
+कर	कर	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+अपनी	अपनी	PRP	0	n	f	sg	3	d
+नियमित	नियमित	JJ	0	n	m	sg	3	d
+सेना	सेना	NN	0	n	f	sg	3	d
+भेज	भेज	VM	0	v	any	any	any	
+दी	दे	VAUX	या	v	f	sg	any	
+,	,	SYM		punc				
+क्योंकि	क्योंकि	CC		adv				
+उसे	उसे	PRP		unk				
+महाराजा	महाराजा	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+फैसला	फैसला	NN	0	n	m	sg	3	d
+मंजूर	मंजूर	JJ		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+था	था	VM	था	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+भारत	भारत	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रथम	प्रथम	QO		adj	any	any		any
+प्रधानमंत्री	प्रधानमंत्री	JJ	0	n	m	sg	3	d
+जवाहरलाल	जवाहरलाल	XC		unk				
+नेहरू	नेहरू	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+महाराजा	महाराजा	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+ओर	ओर	NST		adv				
+से	से	PSP	0	v	any	any	any	
+किए	कर	VM	या	v	m	pl	any	
+गए	गए	VAUX		unk				
+विलय	विलय	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+तब	तब	PRP		adv				
+तक	तक	RP		avy				
+स्वीकार	स्वीकार	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+किया	कर	VM	या	v	m	sg	any	
+जब	जब	PRP		adv				
+तक	तक	RP		avy				
+उन्होंने	उन्होंने	PRP		unk				
+लोकप्रिय	लोकप्रिय	JJ		adj	any	any		any
+नेता	नेता	NN	0	n	m	sg	3	d
+शेख	शेख	XC		unk				
+अब्दुल्ला	अब्दुल्ला	NNP		unk				
+,	,	SYM		punc				
+जो	जो	PRP		avy				
+उस	उस	DEM		unk				
+समय	समय	NN	0	n	m	sg	3	d
+जेल	जेल	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+थे	था	VM	था	v	m	pl	any	
+,	,	SYM		punc				
+को	को	PSP		psp				
+राज्य	राज्य	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+प्रधानमंत्री	प्रधानमंत्री	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+बनाया	बना	VM	या	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+नेहरू	नेहरू	NNP	0	n	m	sg	3	d
+ने	ने	PSP		psp				
+विलय	विलय	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+मंजूरी	मंजूरी	NN	0	n	f	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+इतनी	इतनी	QF		adj	f	any		any
+देर	देर	NN		adv				
+लगाई	लगा	VM	या	v	f	sg	any	
+कि	कि	CC		avy				
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+सेना	सेना	NN	0	n	f	sg	3	d
+श्रीनगर	श्रीनगर	XC		unk				
+एयरपोर्ट	एयरपोर्ट	NNP		unk				
+के	का	PSP	का	psp	m	sg		o
+पास	पास	NST		adv				
+पहुंच	पहुंच	VM		unk				
+गई	गई	VAUX		unk				
+।	।	SYM		punc				
+</s>
+<s>
+भारतीय	भारतीय	JJ	0	n	m	sg	3	d
+सेना	सेना	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+हवाई	हवाई	XC	0	n	f	sg	3	d
+जहाज	जहाज	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+भेजा	भेज	VM	या	v	m	sg	any	
+गया	गया	VAUX		unk				
+और	और	CC		adv				
+वह	वह	PRP	0	pn	any	sg	3	d
+ठीक	ठीक	RB		adv				
+अंतिम	अंतिम	JJ	0	n	m	sg	3	d
+समय	समय	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+पहुंच	पहुंच	VM		unk				
+गई	गई	VAUX		unk				
+और	और	CC		adv				
+उसने	उसने	PRP		unk				
+एयरपोर्ट	एयरपोर्ट	NN		unk				
+को	को	PSP		psp				
+मुक्त	मुक्त	JJ		adv				
+करा	करा	VM	0	v	any	any	any	
+लिया	ले	VAUX	या	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+सेना	सेना	NN	0	n	f	sg	3	d
+ने	ने	PSP		psp				
+बारामूला	बारामूला	NN		unk				
+में	में	PSP		psp				
+लूटपाट	लूटपाट	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+दुष्कर्म	दुष्कर्म	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+अपना	अपना	PRP	0	n	m	sg	3	d
+समय	समय	NN	0	n	m	sg	3	d
+नष्ट	नष्ट	JJ	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+किया	कर	VM	या	v	m	sg	any	
+होता	हो	VAUX	ता	v	m	sg	any	
+तो	तो	CC		avy				
+हवाई	हवाई	XC	0	n	f	sg	3	d
+अड्डे	अड्डा	NN	0	n	m	pl	3	d
+पर	पर	PSP		psp				
+उनका	उनका	PRP		unk				
+कब्जा	कब्जा	NN	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+गया	गया	VAUX		unk				
+होता	हो	VAUX	ता	v	m	sg	any	
+और	और	CC		adv				
+कहानी	कहानी	NN	0	n	f	sg	3	d
+एकदम	एकदम	RB		adv				
+अलग	अलग	JJ		adj	any	any		any
+होती	हो	VM	ता	v	f	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+कश्मीर	कश्मीर	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+विलय	विलय	NN	0	n	m	sg	3	d
+इतिहास	इतिहास	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+दर्ज	दर्ज	JJ	0	n	m	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+चुका	चुका	VAUX	0	v	any	any	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+इसमें	इसमें	PRP		pn	any	sg	3	o
+मोदी	मोदी	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+हाथ	हाथ	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+सद्भावना	सद्भावना	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+शुरुआत	शुरुआत	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+और	और	CC		adv				
+नवाज	नवाज	JJ	0	v	any	any	any	
+शरीफ	शरीफ	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+पोती	पोती	NN	0	n	f	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+जन्मदिन	जन्मदिन	NN		unk				
+समारोह	समारोह	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+भाग	भाग	NN	0	v	any	any	any	
+लेने	ले	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+लाहौर	लाहौर	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+यात्रा	यात्रा	NN	0	n	f	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+।	।	SYM		punc				
+</s>
+<s>
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+जुनून	जुनून	NN		unk				
+इस्लाम	इस्लाम	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+,	,	SYM		punc				
+मजहब	मजहब	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+इस्लाम	इस्लाम	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+उन्होंने	उन्होंने	PRP		unk				
+राज्य	राज्य	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+मजहब	मजहब	NN	0	n	m	sg	3	d
+बना	बना	VM	0	v	any	any	any	
+दिया	दे	VAUX	या	v	m	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+मोदी	मोदी	NN		unk				
+हिंदुत्व	हिंदुत्व	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+प्रतिनिधि	प्रतिनिधि	NN	0	n	m	sg	3	d
+माने	मान	VM	एं	v	any	sg	2	
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+वह	वह	PRP	0	pn	any	sg	3	d
+आरएसएस	आरएसएस	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+प्रचारक	प्रचारक	NN	0	n	m	sg	3	d
+रह	रह	VM	0	v	any	any	any	
+चुके	चुक	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+इसलिए	इसलिये	CC		avy				
+बंटवारे	बंटवारे	NN		unk				
+के	का	PSP	का	psp	m	sg		o
+बाद	बाद	NST		adv				
+मुसलमानों	मुसलमान	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+हुई	हो	VM	या	v	f	sg	any	
+सारी	सारी	QF	0	n	f	sg	3	d
+गलतियों	गलती	NN	0	n	f	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+जिम्मेदार	जिम्मेदार	JJ		adj	any	any		any
+माने	मान	VM	एं	v	any	sg	2	
+जाते	जा	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+आने	आ	VM	ना	v	m	pl	any	
+वाली	वाली	PSP	0	n	f	sg	3	d
+पीढी	पीढी	NN	0	n	f	sg	3	d
+इसे	इसे	PRP		pn	any	sg	3	o
+साबित	साबित	JJ		adj	any	any		any
+कर	कर	VM	0	v	any	any	any	
+देगी	दे	VAUX	गा	v	f	sg	2	
+कि	कि	CC		avy				
+धर्म	धर्म	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+आधार	आधार	NN	0	n	m	sg	3	d
+पर	पर	PSP		psp				
+सरहद	सरहद	NN		unk				
+स्वीकार	स्वीकार	NN	0	n	m	sg	3	d
+करना	कर	VM	ना	v	m	sg	any	
+दोनों	दोना	JJ	0	n	m	pl	3	o
+देशों	देश	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+की	कर	VM	या	v	f	sg	any	
+गई	गई	VAUX		unk				
+नाइंसाफी	नाइंसाफी	VAUX		unk				
+थी	था	VAUX	था	v	f	sg	any	
+।	।	SYM		punc				
+</s>
+<s>
+वे	वह	PRP	0	pn	any	pl	3	d
+अलग	अलग	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+गए	गए	VAUX		unk				
+,	,	SYM		punc				
+क्योंकि	क्योंकि	CC		adv				
+एक	एक	QC		adj	any	any		any
+हिंदू	हिंदू	JJ	0	n	m	sg	3	d
+था	था	VM	था	v	m	sg	any	
+और	और	CC		adv				
+दूसरा	दूसरा	QO	0	n	m	sg	3	d
+मुसलमा	मुसलमा	JJ		unk				
+न।	न।	NN		unk				
+मैं	मैं	PRP	0	pn	any	sg	1	d
+उम्मीद	उम्मीद	NN	0	n	f	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+हूं	है	VAUX	है	v	any	sg	1	
+कि	कि	CC		avy				
+पाकिस्तान	पाकिस्तान	NNP	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+निर्माता	निर्माता	XC		unk				
+मुहम्मद	मुहम्मद	XC	0	n	m	sg	3	d
+अली	अली	NNP	0	n	f	sg	3	d
+जिन्ना	जिन्ना	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+सपना	सपना	NN	0	n	m	sg	3	d
+सच	सच	NN		adv				
+होगा	हो	VM	गा	v	m	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+उन्होंने	उन्होंने	PRP		unk				
+कहा	कह	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+कि	कि	CC		avy				
+दोनों	दोना	JJ	0	n	m	pl	3	o
+देश	देश	NN	0	n	m	sg	3	d
+अमेरिका	अमेरिका	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+कनाडा	कनाडा	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+तरह	तरह	PSP		adv				
+रहेंगे	रह	VM	गा	v	m	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+जिन्ना	जिन्ना	NN		unk				
+ने	ने	PSP		psp				
+कहा	कह	VM	या	v	m	sg	any	
+था	था	VAUX	था	v	m	sg	any	
+कि	कि	CC		avy				
+वे	वह	PRP	0	pn	any	pl	3	d
+हिंदू	हिंदू	NNP	0	n	m	sg	3	d
+और	और	CC		adv				
+मुसलमान	मुसलमान	NN	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+रहेंगे	रह	VM	गा	v	m	pl	1	
+,	,	SYM		punc				
+मजहब	मजहब	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+अर्थ	अर्थ	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+नहीं	नहीं	NEG		adv				
+,	,	SYM		punc				
+लेकिन	लेकिन	CC		avy				
+दूसरी	दूसरी	QO		unk				
+वजहों	वजह	NN	0	n	f	pl	3	o
+से	से	PSP	0	v	any	any	any	
+,	,	SYM		punc				
+और	और	CC		adv				
+राज्य	राज्य	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+साथ	साथ	NST		adv				
+धर्म	धर्म	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+नहीं	नहीं	NEG		adv				
+मिलाएंगे	मिला	VM	गा	v	m	pl	1	
+।	।	SYM		punc				
+</s>
+<s>

@@ -1,0 +1,525 @@
+दुख	दुख	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+सुख	सुख	XC	0	n	m	sg	3	d
+दुख	दुख	NN	0	n	m	sg	3	d
+मनुष्य	मनुष्य	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+एक	एक	QC		adj	any	any		any
+नकारात्मक	नकारात्मक	JJ		adj	any	any		any
+मानसिक	मानसिक	JJ		adj	any	any		any
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+दुख	दुख	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+स्थितियों	स्थिति	NN	0	n	m	pl	3	o
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+स्वयं	स्वयं	PRP	0	n	f	sg	3	d
+करता	कर	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+फिर	फिर	RB	0	v	any	any	any	
+उसे	उसे	PRP		unk				
+मिटा	मिटा	VM	0	v	any	any	any	
+भी	भी	RP		adv				
+देता	दे	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+दरअसल	दरअसल	CC		adv				
+दुख	दुख	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+निर्माण	निर्माण	NN	0	n	m	sg	3	d
+हम	हम	PRP		unk				
+स्वयं	स्वयं	PRP	0	n	f	sg	3	d
+दूसरों	दूसरा	NN	0	n	m	pl	3	o
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+ऐसा	ऐसा	PRP		adj	m	sg		d
+देखने	देख	VM	ना	v	m	pl	any	
+में	में	PSP		psp				
+आया	आ	VM	या	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+अपने	अपना	PRP	0	n	m	pl	3	d
+कारण	कारण	NN	0	n	m	sg	3	d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+भी	भी	RP		adv				
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+न	न	NEG		adv				
+तो	तो	RP		avy				
+दुखी	दुखी	JJ	0	n	f	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+न	न	NEG		adv				
+सुखी	सुखी	JJ	0	n	m	sg	3	d
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+दुख	दुख	NN	0	n	m	sg	3	d
+तो	तो	CC		avy				
+मनुष्य	मनुष्य	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+हमेशा	हमेशा	RB		adv				
+ही	ही	RP		adv				
+दूसरे	दूसरा	PRP	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+सताता	सता	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+इसी	इसी	DEM		pn	any	sg	3	o
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+हम	हम	PRP		unk				
+सुख	सुख	NN	0	n	m	sg	3	d
+भी	भी	RP		adv				
+दूसरे	दूसरा	PRP	0	n	m	pl	3	d
+के	का	PSP	का	psp	m	sg		o
+कारण	कारण	NN	0	n	m	sg	3	d
+ही	ही	RP		adv				
+अनुभव	अनुभव	NN	0	n	m	sg	3	d
+करते	कर	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+दुख	दुख	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+सुख	सुख	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+जब	जब	PRP		adv				
+हम	हम	PRP		unk				
+स्वयं	स्वयं	PRP	0	n	f	sg	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+को	को	PSP		psp				
+तैयार	तैयार	JJ		adj	any	any		any
+बैठे	बैठ	VM	एं	v	any	sg	2	
+होते	हो	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+,	,	SYM		punc				
+तभी	तभी	PRP		adv				
+वे	वह	PRP	0	pn	any	pl	3	d
+हमारे	हमारे	PRP		unk				
+पास	पास	NST		adv				
+आते	आ	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+उदाहरण	उदाहरण	NN	0	n	m	sg	3	d
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+जिस	जो	DEM	0	pn	any	sg	3	o
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+हमें	हमें	PRP		unk				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+मिठाई	मिठाई	NN	0	n	f	sg	3	d
+देता	दे	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+हमें	हमें	PRP		unk				
+उसकी	उसकी	PRP		unk				
+आवश्यकता	आवश्यकता	NN	0	n	f	sg	3	d
+नहीं	नहीं	NEG		adv				
+होती	हो	VM	ता	v	f	sg	any	
+तो	तो	CC		avy				
+हम	हम	PRP		unk				
+उसे	उसे	PRP		unk				
+लौटा	लौटा	VM	0	v	any	any	any	
+देते	दे	VAUX	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+उसी	उसी	DEM		unk				
+प्रकार	प्रकार	NN	0	n	m	sg	3	d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+हमें	हमें	PRP		unk				
+दुख	दुख	NN	0	n	m	sg	3	d
+देना	दे	VM	ना	v	m	sg	any	
+चाहे	चाह	VAUX	एं	v	any	sg	2	
+और	और	CC		adv				
+हम	हम	PRP		unk				
+दुख	दुख	NN	0	n	m	sg	3	d
+लेने	ले	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+राजी	राजी	JJ	0	n	f	sg	3	d
+न	न	NEG		adv				
+हों	ह	VM	0	n	m	pl	3	o
+तो	तो	CC		avy				
+वह	वह	PRP	0	pn	any	sg	3	d
+स्वयं	स्वयं	PRP	0	n	f	sg	3	d
+लौट	लौट	VM	0	v	any	any	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+देने	दे	VM	ना	v	m	pl	any	
+वाले	वाला	PSP	0	n	m	pl	3	d
+को	को	PSP		psp				
+ही	ही	RP		adv				
+सताने	सता	VM	ना	v	m	pl	any	
+लगता	लग	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+हालांकि	हालांकि	CC		unk				
+हममें	हममें	PRP		unk				
+से	से	PSP	0	v	any	any	any	
+अधिकांश	अधिकांश	JJ		adj	any	any		any
+लोग	लोग	NN	0	n	m	sg	3	d
+पहले	पहले	NST		adv				
+से	से	PSP	0	v	any	any	any	
+ही	ही	RP		adv				
+दुख	दुख	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+स्वीकार	स्वीकार	NN	0	n	m	sg	3	d
+करने	कर	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+खड़े	खड़े	JJ		adj	m	sg		o
+रहते	रह	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+कभी-कभी	कभी-कभी	PRP		adv				
+तो	तो	RP		avy				
+ऐसा	ऐसा	PRP		adj	m	sg		d
+भी	भी	RP		adv				
+होता	हो	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+दुख	दुख	NN	0	n	m	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+आता	आ	VM	ता	v	m	sg	any	
+तो	तो	CC		avy				
+हम	हम	PRP		unk				
+स्वयं	स्वयं	PRP	0	n	f	sg	3	d
+ही	ही	RP		adv				
+उसे	उसे	PRP		unk				
+बुलाकर	बुला	VM	कर	v	any	any	any	
+ले	ले	VAUX	0	v	any	any	any	
+आते	आ	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+इसकी	इसकी	PRP		pn	f	sg	3	d
+वजह	वजह	NN	0	n	f	sg	3	d
+यह	यह	PRP	0	pn	any	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+दूसरे	दूसरा	NN	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+प्रत्येक	प्रत्येक	QF		adj	any	any		any
+वस्तु	वस्तु	NN	0	n	f	sg	3	d
+हमें	हमें	PRP		unk				
+अच्छी	अच्छी	JJ		adj	f	any		any
+लगती	लग	VM	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+,	,	SYM		punc				
+चाहे	चाहे	CC:?		adv				
+वह	वह	PRP	0	pn	any	sg	3	d
+अच्छी	अच्छी	JJ		adj	f	any		any
+हो	हो	VM	0	v	any	any	any	
+या	या	CC		avy				
+न	न	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+।	।	SYM		punc				
+</s>
+<s>
+यह	यह	DEM	0	pn	any	sg	3	d
+मानव	मानव	NN	0	n	m	sg	3	d
+स्वभाव	स्वभाव	NN		unk				
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+उसे	उसे	PRP		unk				
+दूसरे	दूसरा	PRP	0	n	m	pl	3	d
+का	का	PSP	का	psp	m	sg		d
+सब	सब	QF		adj	any	any		any
+कुछ	कुछ	QF		adj	any	any		d
+अच्छा	अच्छा	JJ		adj	m	sg		d
+लगता	लग	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+यही	यही	DEM		avy				
+उसके	उसके	PRP		unk				
+दुख	दुख	NN	0	n	m	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+कारण	कारण	NN	0	n	m	sg	3	d
+बन	बन	VM	0	v	any	any	any	
+जाता	जा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+गांव	गाँव	NN	0	n	m	sg		d
+हो	हो	VM	0	v	any	any	any	
+या	या	CC		avy				
+शहर	शहर	NN	0	n	m	sg	3	d
+वहां	वहाँ	PRP		adv				
+न	न	NEG		adv				
+तो	तो	RP		avy				
+किसी	किसी	PRP		unk				
+को	को	PSP		psp				
+फुर्सत	फुर्सत	NN	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+आपको	आप	PRP	को	pn	any	any	any	o
+दुख	दुख	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+या	या	CC		avy				
+सुख	सुख	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+।	।	SYM		punc				
+</s>
+<s>
+आप	आप	PRP	0	pn	any	any	any	o
+तो	तो	RP		avy				
+स्वयं	स्वयं	PRP	0	n	f	sg	3	d
+हाथ	हाथ	NN	0	n	m	sg	3	d
+पसारे	पसार	VM	एं	v	any	sg	2	
+सड़कांे	सड़कांे	NN		unk				
+पर	पर	PSP		psp				
+घूम	घूम	VM	0	v	any	any	any	
+रहे	रह	VAUX	एं	v	any	sg	2	
+हैं	है	VAUX	है	v	any	pl	1	
+कि	कि	CC		avy				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+हमें	हमें	PRP		unk				
+धक्का	धक्का	NN	0	n	m	sg	3	d
+मारे	मार	VM	एं	v	any	sg	2	
+और	और	CC		adv				
+हम	हम	PRP		unk				
+दुखी	दुखी	NN	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+जाएं	जा	VAUX	एं	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+आज	आज	NN		adv				
+तक	तक	RP		avy				
+दुनिया	दुनिया	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+ऐसा	ऐसा	PRP		adj	m	sg		d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+व्यक्ति	व्यक्ति	NN	0	n	m	sg	3	d
+पैदा	पैदा	JJ	0	n	m	sg	3	d
+नहीं	नहीं	NEG		adv				
+हुआ	हो	VM	या	v	m	sg	any	
+जो	जो	PRP		avy				
+किसी	किसी	PRP		unk				
+को	को	PSP		psp				
+दुख	दुख	NN	0	n	m	sg	3	d
+दे	दे	VM	0	v	any	any	any	
+सके	सक	VAUX	एं	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+देना	दे	VM	ना	v	m	sg	any	
+तो	तो	CC		avy				
+तभी	तभी	PRP		adv				
+संभव	संभव	JJ	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+जब	जब	PRP		adv				
+लेने	ले	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+राजी	राजी	JJ	0	n	f	sg	3	d
+हो	हो	VM	0	v	any	any	any	
+।	।	SYM		punc				
+</s>
+<s>
+जो	जो	PRP		avy				
+लेने	ले	VM	ना	v	m	pl	any	
+के	का	PSP	का	psp	m	sg		o
+लिए	ले	PSP	या	v	m	pl	any	
+राजी	राजी	JJ	0	n	f	sg	3	d
+न	न	NEG		adv				
+हो	हो	VM	0	v	any	any	any	
+उसे	उसे	PRP		unk				
+कोई	कोई	PRP	0	pn	any	sg	3	d
+चीज	चीज	NN	0	n	f	sg	3	d
+कैसी	कैसी	WQ		adj	f	any		any
+दी	दे	VM	या	v	f	sg	any	
+जा	जा	VAUX	0	v	any	any	any	
+सकती	सक	VAUX	ता	v	f	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+गीता	गीता	NN	0	n	f	sg	3	d
+में	में	PSP		psp				
+भगवान	भगवान	XC		unk				
+श्रीकृष्ण	श्रीकृष्ण	NNP		unk				
+ने	ने	PSP		psp				
+अजरुन	अजरुन	NN		unk				
+से	से	PSP	0	v	any	any	any	
+कहा	कह	VM	या	v	m	sg	any	
+भी	भी	RP		adv				
+है	है	VM	है	v	any	sg	2	
+कि	कि	CC		avy				
+हे	हे	XC		avy				
+अजरुन	अजरुन	NNP		unk				
+!	!	SYM		punc				
+तुम	तू	PRP	0	pn	any	pl	2	d
+दुख	दुख	NN	0	n	m	sg	3	d
+और	और	CC		adv				
+सुख	सुख	NN	0	n	m	sg	3	d
+,	,	SYM		punc				
+अपने	अपना	PRP	0	n	m	pl	3	d
+और	और	CC		adv				
+पराये	पराया	VM	0	n	m	pl	3	d
+की	का	PSP	का	psp	f	sg		d
+बात	बात	NN	0	n	f	sg	3	d
+छोड़ो	छोड़ो	NNP		punc				
+और	और	CC		adv				
+निर्विकार	निर्विकार	JJ		adj	any	any		any
+भाव	भाव	NN	0	n	m	sg	3	d
+से	से	PSP	0	v	any	any	any	
+कर्म	कर्म	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+प्रवृत्त	प्रवृत्त	JJ		adj	any	any		any
+हो	हो	VM	0	v	any	any	any	
+जा	जा	VAUX	0	v	any	any	any	
+ओ।	ओ।	NN		unk				
+किसी	किसी	PRP		unk				
+को	को	PSP		psp				
+सुख	सुख	NN	0	n	m	sg	3	d
+या	या	CC		avy				
+दुख	दुख	NN	0	n	m	sg	3	d
+देने	दे	VM	ना	v	m	pl	any	
+वाला	वाला	PSP	0	n	m	sg	3	d
+कोई	कोई	PRP	0	pn	any	sg	3	d
+नहीं	नहीं	NEG		adv				
+है	है	VM	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+स्व-कर्म	स्व-कर्म	NN		unk				
+(	(	SYM		punc				
+अपने	अपना	PRP	0	n	m	pl	3	d
+कर्म	कर्म	NN	0	n	m	sg	3	d
+)	)	SYM		punc				
+से	से	PSP	0	v	any	any	any	
+ही	ही	RP		adv				
+मनुष्य	मनुष्य	NN	0	n	m	sg	3	d
+सुख	सुख	NN	0	n	m	sg	3	d
+या	या	CC		avy				
+दुख	दुख	NN	0	n	m	sg	3	d
+पाता	पा	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+और	और	CC		adv				
+फिर	फिर	RB	0	v	any	any	any	
+बेहाल	बेहाल	JJ		adj	any	any		any
+होकर	हो	VM	कर	v	any	any	any	
+त्रहि-त्रहि	त्रहि-त्रहि	VAUX		unk				
+करने	कर	VM	ना	v	m	pl	any	
+लगता	लग	VAUX	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+ऐसी	ऐसी	DEM		adj	f	any		any
+स्थिति	स्थिति	NN	0	n	m	sg	3	d
+में	में	PSP		psp				
+मनुष्य	मनुष्य	NN	0	n	m	sg	3	d
+को	को	PSP		psp				
+विचलित	विचलित	JJ		adj	any	any		any
+नहीं	नहीं	NEG		adv				
+होना	हो	VM	ना	v	m	sg	any	
+चाहि	चाहि	VAUX		unk				
+ए।	ए।	NN		unk				
+उसे	उसे	PRP		unk				
+अपने	अपना	PRP	0	n	m	pl	3	d
+अंतर्मन	अंतर्मन	NN		unk				
+की	का	PSP	का	psp	f	sg		d
+पुकार	पुकार	NN	0	n	f	sg	3	d
+को	को	PSP		psp				
+सुनना	सुन	VM	ना	v	m	sg	any	
+चाहि	चाहि	VAUX		unk				
+ए।	ए।	JJ		unk				
+अंतर्मन	अंतर्मन	NN		unk				
+में	में	PSP		psp				
+विभिन्न	विभिन्न	JJ	0	n	m	sg	3	d
+शक्तियां	शक्तियां	NN		unk				
+का	का	PSP	का	psp	m	sg		d
+भंडार	भंडार	NN	0	n	m	sg	3	d
+निहित	निहित	JJ	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+जब	जब	PRP		adv				
+आप	आप	PRP	0	pn	any	any	any	o
+ध्यान	ध्यान	NN	0	n	m	sg	3	d
+की	का	PSP	का	psp	f	sg		d
+गहराइयों	गहराइयों	NN		unk				
+में	में	PSP		psp				
+डूबते	डूब	VM	ता	v	m	pl	any	
+हैं	है	VAUX	है	v	any	pl	1	
+तब	तब	PRP		adv				
+आपको	आप	PRP	को	pn	any	any	any	o
+पता	पता	JJ	0	n	m	sg	3	d
+चलता	चल	VM	ता	v	m	sg	any	
+है	है	VAUX	है	v	any	sg	2	
+कि	कि	CC		avy				
+अंतर्मन	अंतर्मन	NN		unk				
+में	में	PSP		psp				
+ऊर्जा	ऊर्जा	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+भंडार	भंडार	NN	0	n	m	sg	3	d
+निहित	निहित	JJ	0	n	m	sg	3	d
+है	है	VM	है	v	any	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
+इस	इस	DEM		pn	any	sg	3	o
+ऊर्जा	ऊर्जा	NN	0	n	f	sg	3	d
+का	का	PSP	का	psp	m	sg		d
+सदुपयोग	सदुपयोग	NN	0	n	m	sg	3	d
+करें	कर	VM	एं	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+स्वयं	स्वयं	PRP	0	n	f	sg	3	d
+को	को	PSP		psp				
+ऊर्जावान	ऊर्जावान	NN		unk				
+महसूस	महसूस	JJ	0	n	m	sg	3	d
+करें	कर	VM	एं	v	any	pl	1	
+।	।	SYM		punc				
+</s>
+<s>
+फिर	फिर	RB	0	v	any	any	any	
+देखें	देख	VM	एं	v	any	pl	1	
+कि	कि	CC		avy				
+आप	आप	PRP	0	pn	any	any	any	o
+जो	जो	PRP		avy				
+भी	भी	RP		adv				
+कार्य	कार्य	NN	0	n	m	sg	3	d
+करेंगे	कर	VM	गा	v	m	pl	1	
+,	,	SYM		punc				
+उसमें	उसमें	PRP		unk				
+आनंद	आनंद	NN	0	n	m	sg	3	d
+मिलेगा	मिल	VM	गा	v	m	sg	2	
+।	।	SYM		punc				
+</s>
+<s>
